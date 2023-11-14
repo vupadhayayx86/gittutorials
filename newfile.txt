@@ -1,2 +1,3 @@
 This is new file for testing purpose.Let's learn and experiment with git.
 I am new to git trying to experiment some stuffs.
+This is after we commited changes from 1002.
